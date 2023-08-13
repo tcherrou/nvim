@@ -1,0 +1,5 @@
+require ('plugins')
+require('config')
+require('tools')
+require('keymaps')
+-- require('ftplugin')
